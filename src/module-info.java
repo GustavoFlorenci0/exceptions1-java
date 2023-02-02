@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author PCcas
+ *
+ */
+module Exception {
+}
